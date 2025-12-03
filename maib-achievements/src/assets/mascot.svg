@@ -1,0 +1,26 @@
+<svg width="240" height="280" viewBox="0 0 240 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Maib mascot illustration</title>
+  <desc id="desc">Playful fox mascot in a suit inspired by maib brand colors.</desc>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M60 40 L30 135 L90 120 Z" fill="#379F8D"/>
+    <path d="M180 40 L150 135 L210 120 Z" fill="#379F8D"/>
+    <path d="M66 60 L48 124 L86 112 Z" fill="#F4A2A5"/>
+    <path d="M174 60 L156 124 L194 112 Z" fill="#F4A2A5"/>
+    <circle cx="120" cy="120" r="90" fill="#40C1AC"/>
+    <ellipse cx="120" cy="138" rx="78" ry="70" fill="#E4F7F3"/>
+    <path d="M70 120 Q80 138 95 132" stroke="#253746" stroke-width="5" stroke-linecap="round"/>
+    <path d="M145 132 Q160 138 170 120" stroke="#253746" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="95" cy="125" r="8" fill="#253746"/>
+    <circle cx="145" cy="125" r="8" fill="#253746"/>
+    <path d="M100 160 Q120 175 140 160" stroke="#253746" stroke-width="5" stroke-linecap="round"/>
+    <path d="M80 190 H160 Q168 190 168 198 V248 Q168 256 160 256 H80 Q72 256 72 248 V198 Q72 190 80 190 Z" fill="#253746"/>
+    <path d="M96 190 L90 248" stroke="#40C1AC" stroke-width="6" stroke-linecap="round"/>
+    <path d="M144 190 L150 248" stroke="#40C1AC" stroke-width="6" stroke-linecap="round"/>
+    <path d="M120 190 L120 252" stroke="#40C1AC" stroke-width="6" stroke-linecap="round"/>
+    <path d="M120 208 L110 232 H130 Z" fill="#40C1AC"/>
+    <path d="M170 190 C210 210 210 250 160 260" fill="#40C1AC"/>
+    <path d="M165 205 C197 225 194 247 162 252" fill="#E4F7F3"/>
+    <circle cx="120" cy="210" r="16" fill="#E4F7F3"/>
+    <path d="M110 208 L120 228 L130 208 Z" fill="#2E3B4A" opacity="0.2"/>
+  </g>
+</svg>
