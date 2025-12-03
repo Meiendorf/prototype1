@@ -8,4 +8,5 @@ export type Achievement = {
   image?: string,
   isWide?: boolean,
   userPercent?: number,
+  isFrozen?: boolean,
 }

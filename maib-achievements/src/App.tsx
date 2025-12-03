@@ -46,9 +46,10 @@ const achievements: Achievement[] = [
     id: 'groceries-guru',
     title: 'Groceries Guru',
     info: 'Completed 5 purchases at supermarkets.',
-    progress: 50,
+    progress: 0,
     gradient: ['#b63400ff', '#fadd38ff'],
     image: mascot_4,
+    isFrozen: true,
   },
   {
     id: 'night-owl',
